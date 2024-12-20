@@ -1,0 +1,49 @@
+name: errol.heller
+description: interactive
+version: 0.0.1
+author: vlz6samp.p5wzh2hl@ghkub93l.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: errolheller
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-20 20:27:55'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-20 20:27:55'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-20T20:27:55.813521Z'
+  name: plibMaven
+  version: 8.8.0-SNAPSHOT
+  id: '117876400'
+  createdAt: '2024-12-20T20:27:55.813521Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
